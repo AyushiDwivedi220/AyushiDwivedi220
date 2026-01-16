@@ -1,5 +1,4 @@
-![Ayushi Dwivedi Banner](<img width="3780" height="1890" alt="Black and White Modern Business Contact Banner (1)" src="https://github.com/user-attachments/assets/a278e48e-9041-428a-aa05-deddccd61b41" />)
-
+![Ayushi Dwivedi Banner](https://github.com/user-attachments/assets/a278e48e-9041-428a-aa05-deddccd61b41)
 
 <h1 align="center">Hi, I'm Ayushi Dwivedi 👋</h1>
 <p align="center">
