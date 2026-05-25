@@ -6,17 +6,17 @@
 
 Java • Python • DSA • DBMS
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=A3B18A&center=true&vCenter=true&width=500&lines=Focused+on+growth+and+consistency;Learning+through+clean+code+%F0%9F%8C%B1;Building+strong+CS+fundamentals" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=A3B18A&center=true&vCenter=true&width=520&lines=Focused+on+growth+and+consistency+🌱;Learning+through+clean+code+🍃;Building+strong+CS+fundamentals+☁️;Slowly+growing+every+day+🌷" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=A3B18A&height=2&section=header"/>
 
 </div>
-
----
 
 ## 🌱 About Me
 
 ```txt
 Focused on problem-solving, clean code, and continuous learning.
-Currently strengthening DSA, backend development, and core CS concepts.
+Currently strengthening DSA, backend development, and core CS fundamentals.
 ```
 
 * 🌿 Strong interest in Data Structures & Algorithms
@@ -28,39 +28,45 @@ Currently strengthening DSA, backend development, and core CS concepts.
 
 ## 🍃 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,mysql" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,git,mysql,django,react" />
+
+</div>
 
 ---
 
 ## 🌼 Featured Projects
 
-### AI Study Planner
+### 🌷 AI Study Planner
 
 AI-powered planner that creates personalized study schedules and dynamically updates progress based on task completion.
 
-### Timetable Generator
+### 🍀 Timetable Generator
 
 Smart academic timetable system with semester-wise course allocation and support for internships, research, and training requests.
 
-### Lead Manager
+### 🌿 Lead Manager
 
 Full-stack lead management application built using Django REST Framework and React.
 
-### DSA in Java
+### 🌱 DSA in Java
 
 Structured repository focused on improving problem-solving skills and optimized implementations.
 
 ---
 
-## 🌾 GitHub Stats
+## 🌾 GitHub Garden
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushiDwivedi220&show_icons=true&theme=transparent&hide_border=true&title_color=A3B18A&text_color=6B705C&icon_color=A3B18A" height="165"/>
+<div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyushiDwivedi220&theme=transparent&hide_border=true&ring=A3B18A&fire=A3B18A&currStreakLabel=6B705C" height="165"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AyushiDwivedi220&show_icons=true&theme=transparent&hide_border=true&title_color=A3B18A&text_color=6B705C&icon_color=A3B18A" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AyushiDwivedi220&theme=transparent&hide_border=true&ring=A3B18A&fire=CFE1B9&currStreakLabel=6B705C" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushiDwivedi220&bg_color=ffffff00&color=6B705C&line=A3B18A&point=CFE1B9&hide_border=true" width="95%"/>
+
+</div>
 
 ---
 
@@ -77,6 +83,9 @@ Structured repository focused on improving problem-solving skills and optimized 
 ### 🌿 Connect With Me
 
 📧 [ayushiii2005@icloud.com](mailto:ayushiii2005@icloud.com)
-💻 github.com/AyushiDwivedi220
+
+💻 [github.com/AyushiDwivedi220](https://github.com/AyushiDwivedi220)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A3B18A&height=90&section=footer"/>
 
 </div>
