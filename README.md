@@ -1,28 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A3B18A&height=180&section=header&text=Ayushi%20Dwivedi%20🌿&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-### B.Tech CSE @ Galgotias University
-
-Java • Python • DSA • DBMS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A3B18A&height=240&section=header&text=Ayushi%20Dwivedi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🌿%20B.Tech%20CSE%20@%20Galgotias%20University%20🌿&descAlignY=58&descSize=20"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=34&pause=1200&color=6B705C&center=true&vCenter=true&width=700&lines=Focused+on+problem-solving+🌱;Learning+through+clean+code+🍃;Currently+strengthening+DSA+and+backend+development+☁️" />
+### Java • Python • DSA • DBMS
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=36&duration=3500&pause=1200&color=A3B18A&center=true&vCenter=true&width=1000&height=80&lines=Focused+on+problem-solving+🌱;Learning+through+clean+code+🍃;Currently+strengthening+DSA+and+backend+development+☁️" alt="Typing Animation" />
+
+<br><br>
 
 </div>
+
+
 
 ---
 
 ## 🌷 About Me
-<!-- 🌿 Sage Green Animated GitHub Intro -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=8FAF9F&center=true&vCenter=true&width=700&lines=Focused+on+problem-solving%2C+clean+code+%26+continuous+learning.;Strengthening+DSA%2C+Backend+Development+%26+Core+CS.;Java+%7C+Python+%7C+Consistency+%F0%9F%8C%BF" alt="Typing SVG" />
+<i>
+Focused on problem-solving, clean code, and continuous learning.  
+Currently strengthening DSA, backend development, and core CS fundamentals.
+</i>
 
 </div>
 
----
 
 ```txt
 🌿 Strong interest in Data Structures & Algorithms
@@ -30,6 +36,7 @@ Java • Python • DSA • DBMS
 📖 Learning through discipline and consistency
 🪴 Hackathon participant & Club Coordinator
 ```
+
 ---
 
 <div align="center">
@@ -44,11 +51,8 @@ Java • Python • DSA • DBMS
 
 ## 🌼 Featured Projects
 
-### 🌷 AI Study Planner
 
-AI-powered planner that creates personalized study schedules and dynamically updates progress based on task completion.
-
-### 🍀 Timetable Generator
+### 🌷 Timetable Generator
 
 Smart academic timetable system with semester-wise course allocation and support for internships, research, and training requests.
 
@@ -66,15 +70,21 @@ Structured repository focused on improving problem-solving skills and optimized 
 
 ## 🌾 GitHub Garden
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushiDwivedi220&show_icons=true&theme=transparent&hide_border=true&title_color=A3B18A&text_color=6B705C&icon_color=A3B18A"/>
+<div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AyushiDwivedi220&theme=transparent&hide_border=true&ring=A3B18A&fire=A3B18A&currStreakLabel=6B705C"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=AyushiDwivedi220&background=FFFFFF00&ring=A3B18A&fire=CCD5AE&currStreakLabel=B7B7A4&sideNums=DDBEA9&currStreakNum=A3B18A&sideLabels=6B705C&dates=ADC178&hide_border=true&border_radius=18"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushiDwivedi220&bg_color=ffffff00&color=6B705C&line=A3B18A&point=A3B18A&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushiDwivedi220&bg_color=ffffff00&color=B7B7A4&line=A3B18A&point=E9EDC9&area=true&hide_border=true"/>
+
+<br><br>
+
+
 
 </div>
+
 
 ---
 
@@ -85,18 +95,42 @@ Structured repository focused on improving problem-solving skills and optimized 
 * Writing cleaner and more maintainable code
 * Building consistency every single day 🌷
 
----
-
-<div align="center">
+---<div align="center">
 
 ## 🌿 Connect With Me
 
-📧 [ayushiii2005@icloud.com](mailto:ayushiii2005@icloud.com)
+<table>
+<tr>
 
-💻 [github.com/AyushiDwivedi220](https://github.com/AyushiDwivedi220)
+<td align="left" width="45%">
+
+ <a href="mailto:ayushiii2005@icloud.com">[ayushiii2005@icloud.com](mailto:ayushiii2005@icloud.com)</a>
+
+</td>
+
+<td align="center" width="10%">
+
+🌷
+
+</td>
+
+<td align="right" width="45%">
+
+ <a href="https://github.com/AyushiDwivedi220">github.com/AyushiDwivedi220</a>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<img src="https://tenor.com/en-GB/view/cute-cat-garden-gif-5667810437634363216 " width="500"/>
+<i>slowly growing, one commit at a time 🌱</i>
+
+<br><br>
+
+<img src="https://media.tenor.com/n5khYigaZk0AAAAM/rest-poetic.gif" width="1000" height = "200"/>
 
 </div>
+
+
