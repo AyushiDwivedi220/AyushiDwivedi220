@@ -29,7 +29,7 @@ Java • Python • DSA • DBMS
 ☁️ Comfortable with Java and Python
 📖 Learning through discipline and consistency
 🪴 Hackathon participant & Club Coordinator
-
+```
 ---
 
 <div align="center">
