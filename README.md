@@ -6,11 +6,17 @@
 
 Java • Python • DSA • DBMS
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=A3B18A&center=true&vCenter=true&width=520&lines=Focused+on+growth+and+consistency+🌱;Learning+through+clean+code+🍃;Building+strong+CS+fundamentals+☁️;Slowly+growing+every+day+🌷" />
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=A3B18A&height=2&section=header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=A3B18A&center=true&vCenter=true&width=550&lines=Focused+on+growth+and+consistency+🌱;Learning+through+clean+code+🍃;Building+strong+CS+fundamentals+☁️;Slowly+growing+every+day+🌷" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=A3B18A&height=80&section=header"/>
 
 </div>
+
+---
 
 ## 🌱 About Me
 
@@ -64,7 +70,9 @@ Structured repository focused on improving problem-solving skills and optimized 
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AyushiDwivedi220&theme=transparent&hide_border=true&ring=A3B18A&fire=CFE1B9&currStreakLabel=6B705C" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushiDwivedi220&bg_color=ffffff00&color=6B705C&line=A3B18A&point=CFE1B9&hide_border=true" width="95%"/>
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushiDwivedi220&bg_color=ffffff00&color=6B705C&line=A3B18A&point=CFE1B9&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -86,6 +94,8 @@ Structured repository focused on improving problem-solving skills and optimized 
 
 💻 [github.com/AyushiDwivedi220](https://github.com/AyushiDwivedi220)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A3B18A&height=90&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A3B18A&height=120&section=footer"/>
 
 </div>
