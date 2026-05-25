@@ -8,7 +8,7 @@ Java • Python • DSA • DBMS
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=A3B18A&center=true&vCenter=true&width=600&lines=Focused+on+growth+and+consistency+🌱;Learning+through+clean+code+🍃;Building+strong+CS+fundamentals+☁️;Slowly+growing+every+day+🌷" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=3000&pause=1200&color=A3B18A&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Focused+on+growth+and+consistency+🌱;Learning+through+clean+code+🍃;Building+strong+CS+fundamentals+☁️;Slowly+growing+every+day+🌷" />
 
 <br>
 
