@@ -90,12 +90,18 @@ Structured repository focused on improving problem-solving skills and optimized 
 
 ## 🌱 Currently Learning
 
-* Advanced DSA
-* Backend development fundamentals
-* Writing cleaner and more maintainable code
-* Building consistency every single day 🌷
+<div align = "left">
+* Advanced DSA <br>
+* Backend development fundamentals  <br>
+* Writing cleaner and more maintainable code  <br>
+* Building consistency every single day 🌷  <br>
+</div>
 
----<div align="center">
+<br>
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
 
 ## 🌿 Connect With Me
 
