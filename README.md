@@ -15,12 +15,16 @@ Java • Python • DSA • DBMS
 ---
 
 ## 🌷 About Me
+<!-- 🌿 Sage Green Animated GitHub Intro -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=8FAF9F&center=true&vCenter=true&width=700&lines=Focused+on+problem-solving%2C+clean+code+%26+continuous+learning.;Strengthening+DSA%2C+Backend+Development+%26+Core+CS.;Java+%7C+Python+%7C+Consistency+%F0%9F%8C%BF" alt="Typing SVG" />
+
+</div>
+
+---
 
 ```txt
-Focused on problem-solving, clean code, and continuous learning.
-Currently strengthening DSA, backend development, and core CS concepts.
-```
-
 🌿 Strong interest in Data Structures & Algorithms
 ☁️ Comfortable with Java and Python
 📖 Learning through discipline and consistency
@@ -93,6 +97,6 @@ Structured repository focused on improving problem-solving skills and optimized 
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2x0a2N0eGJ2OHp4ZHZmMWNwN3I0ZzA4ZnR3d2Fsd2Y0M3Q4d3Q4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
+<img src="https://tenor.com/en-GB/view/cute-cat-garden-gif-5667810437634363216 " width="500"/>
 
 </div>
